@@ -12,7 +12,7 @@ class Research extends StatelessWidget {
         .size;
     return Scaffold(
       appBar: AppBar(
-        title: Text('Medical card'),
+        title: Text('Medical ckac card'),
         centerTitle: true,
         elevation: 0,
         leading: IconButton(
