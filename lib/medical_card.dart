@@ -68,7 +68,7 @@ class _MedicalState extends State<Medical> {
         ),
       ),
       appBar: AppBar(
-        title: Text('Medical        card'),
+        title: Text('Medical ,iuni card'),
         centerTitle: true,
         elevation: 0,
         leading: IconButton(
